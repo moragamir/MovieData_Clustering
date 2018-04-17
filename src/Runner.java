@@ -10,9 +10,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by Guy on 02-Apr-17.
- */
 
 public class Runner {
     public static void main(String[] args) {
